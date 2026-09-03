@@ -1,0 +1,6 @@
+{
+  "name": "SmartTravel AI",
+  "description": "AI-powered travel planning with DeepSeek NLU, K-Means spatial clustering, SerpApi flights and places, and Booking.com hotels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
